@@ -10,9 +10,11 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "babylonjs": "^6.49.0"
+    "babylonjs": "^7.0.0"
   },
   "devDependencies": {
+    "@babylonjs/core": "^7.0.0",
+    "@babylonjs/loaders": "^7.0.0",
     "parcel": "^2.12.0"
   }
 }
