@@ -1,6 +1,6 @@
 # Crash course in BabylonJS
 
-There is an accompanying GitHub repository that you can use to hack along with this guide. You can find it [here](https://github.com/sytac-webpack-module-federation/augmented-reality).
+> There is an accompanying GitHub repository that you can use to hack along with this guide. You can find it [here](https://github.com/sytac-webpack-module-federation/augmented-reality). Play around with the [live app](https://sytac-webpack-module-federation.github.io/augmented-reality/) on Github-pages.
 
 ## What is Babylon.js?
 
